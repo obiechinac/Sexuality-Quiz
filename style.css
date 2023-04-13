@@ -54,7 +54,7 @@ label { vertical-align: middle; }
 }
 @media screen and (max-width: 800px) {
   .lab  {
-    font-size: 1.5rem;
+    font-size: 1.0rem;
     margin-left: 0%;
     align-items:start;
   }
