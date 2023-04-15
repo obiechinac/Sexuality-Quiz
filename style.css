@@ -14,8 +14,8 @@
 
 @media only screen and (max-width: 590px) {
   .bgimage {
-    width: 100%;
-/*     font-size: 14px; */
+ background-size: cover;
+    background-position: center;
   }
 }
 /* text css above hero image*/
@@ -48,6 +48,7 @@
   color: white;
 }
 }
+
 
 /* input[type=radio] { vertical-align: middle; margin: 0; *margin-top: -2px; }
 label { vertical-align: middle; }
