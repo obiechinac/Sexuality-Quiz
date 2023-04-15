@@ -22,10 +22,22 @@
 .hero_title {
   font-size: 4.5rem;
 }
+@media only screen and (max-width: 500px) {
+  .hero_title {
+font-size: 2.5rem;
+  }
+}
 .hero_desc {
   font-size: 2rem;
   margin-left: 20%;
   margin-right: 20%;
+}
+@media only screen and (max-width: 500px) {
+  .hero_desc {
+  font-size: 1.5rem;
+  margin-left: 10%;
+  margin-right: 10%;
+  }
 }
 .hero-text {
   text-align: center;
