@@ -70,12 +70,12 @@ label { vertical-align: middle; }
 
 .lab{
   display: flex; align-items: center;
-   margin-left: 0%; 
+   margin-left: 5px; 
 }
 @media screen and (max-width: 800px) {
   .lab  {
     font-size: 1.0rem;
-    margin-left: 0%;
+    margin-left: 5px%;
     align-items:start;
   }
   }
